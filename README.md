@@ -1,2 +1,0 @@
-# Olamundo
-Primeiro repositório criado
